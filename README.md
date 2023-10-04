@@ -7,4 +7,5 @@ Any contribution on this client is welcome !
 - [ ] aimassit
 - [ ] self-destruct
 
-![glowing-client_6AcwdkSCX8](https://github.com/S3nda/glowing-client/assets/91835279/1150ccd5-ba92-42e2-b0c9-48244d61484c)
+
+![glowing-client_6AcwdkSCX8](https://github.com/S3nda/glowing-client/assets/91835279/87fd9f23-98e1-4c7f-a4d8-6096d7958844)
